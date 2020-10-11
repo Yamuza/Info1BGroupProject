@@ -3,7 +3,8 @@ Option Explicit On
 Option Infer Off
 
  Public Class Form1
+ Yamuza Wamuza
 
 
-Priva
+ Private 
 End Class
